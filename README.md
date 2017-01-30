@@ -1,7 +1,7 @@
 # Movietheque
 A Java program to archive and display personal collections of movies, using an IMDb API to find all the related datas
 
-<em>List of the different classes:<em>
+<strong>List of the different classes:</strong>
 
 Display: main class that starts the application
 BackgroundPanel: home panel of the software
@@ -23,6 +23,7 @@ DetailedMoviePanel: panel displaying all the datas extracted from an IMDb API re
 <li>IMDbRatingPanel: panel displaying the IMDb's rating</li>
 <li>MovieTitlePanel: panel displaying the movie's title</li>
 <li>MovieInfosPanel: panel displaying others datas (directors, actors, plot, genre...)</li>
+</ul>
 
 Movie: class corresponding to movies
 <ul>
