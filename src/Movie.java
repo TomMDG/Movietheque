@@ -71,7 +71,7 @@ class Movie {
 		content = sc.next();
 		if (content.equals("Response")) {
 			sc.close();
-			throw new NameException("Film non trouvé");
+			throw new NameException("Movie not found");
 		} else {
 			String aux;
 			Boolean test = true;
