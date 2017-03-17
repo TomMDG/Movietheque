@@ -1,5 +1,5 @@
 # Movietheque
-A personal Java project to archive and display collections of movies, using an IMDb API to find all the related datas 
+A personal Java project to archive and display collections of movies, using an IMDb API to find all the related data
 
 <strong>List of the different classes:</strong>
 
