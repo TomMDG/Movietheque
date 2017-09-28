@@ -33,8 +33,8 @@ Movie: class corresponding to movies
 <li>MoviePosterNotFoundImage: create a default poster when the poster is not found on the IMDb API</li>
 </ul>
 
-WindowClosingListener: listener to shut down the software when the user closes the window<br \>
-NameException: exception thrown when the movie is not found on IMDb API<br \>
+WindowClosingListener: listener to shut down the software when the user closes the window
+NameException: exception thrown when the movie is not found on IMDb API
 SourceFilesMissingException: IOException thrown when some source files are missing
 
 
