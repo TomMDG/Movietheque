@@ -3,7 +3,7 @@ A personal Java project to archive and display collections of movies, using an I
 
 <strong>List of the different classes:</strong>
 
-Display: main class that starts the application
+Display: main class that starts the application<br/>
 BackgroundPanel: home panel of the software
 <ul>
 <li>AddMovieButton: button to add a movie to the collection</li>
@@ -33,8 +33,8 @@ Movie: class corresponding to movies
 <li>MoviePosterNotFoundImage: create a default poster when the poster is not found on the IMDb API</li>
 </ul>
 
-WindowClosingListener: listener to shut down the software when the user closes the window
-NameException: exception thrown when the movie is not found on IMDb API
+WindowClosingListener: listener to shut down the software when the user closes the window<br/>
+NameException: exception thrown when the movie is not found on IMDb API<br/>
 SourceFilesMissingException: IOException thrown when some source files are missing
 
 
